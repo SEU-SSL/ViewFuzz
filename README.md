@@ -1,2 +1,2 @@
 # ViewFuzz
-Code will be avaiable upon paper acceptance.
+Code will be avaiable after the acceptance of the paper.
