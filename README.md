@@ -1,2 +1,2 @@
 # ViewFuzz
-ViewFuzz: Collision-Free and High-Throughput Greybox Fuzzing with a Small Map Size
+Code will be avaiable upon paper acceptance.
